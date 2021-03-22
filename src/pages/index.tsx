@@ -17,7 +17,7 @@ import { Footer } from "../components/Footer";
 
 import Head from "next/head";
 
-const Index = () => (
+const HomePage = () => (
   <>
     <Head>
       <title>Tanmoy Krishna Das</title>
@@ -66,4 +66,4 @@ const Index = () => (
   </>
 );
 
-export default Index;
+export default HomePage;
